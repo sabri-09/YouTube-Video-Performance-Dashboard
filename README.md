@@ -88,7 +88,7 @@ It’s built to help creators, agencies, and marketing teams **monitor content h
 ---
 
 ## Directory Structure
-
+```
     youtube-video-performance-dashboard/
    │
    ├── src/
@@ -123,7 +123,7 @@ It’s built to help creators, agencies, and marketing teams **monitor content h
    │
    ├── requirements.txt
    └── README.md
-
+```
 ---
 
 ## Use Cases
